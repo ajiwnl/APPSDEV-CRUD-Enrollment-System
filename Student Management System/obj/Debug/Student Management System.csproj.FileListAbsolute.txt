@@ -1,0 +1,29 @@
+C:\Users\alvin\source\repos\Finals\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\alvin\source\repos\Finals\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\alvin\source\repos\Finals\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student_Management_System.StudentEntryForm.resources
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student_Management_System.StudentEnrollmentEntryForm.resources
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student_Management_System.SubjectEntryForm.resources
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student_Management_System.SubjectScheduleEntryForm.resources
+Z:\FINAL_ARANETAAJ\Student Management System\bin\Debug\Student Management System.exe.config
+Z:\FINAL_ARANETAAJ\Student Management System\bin\Debug\Student Management System.exe
+Z:\FINAL_ARANETAAJ\Student Management System\bin\Debug\Student Management System.pdb
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student_Management_System.StudentEnrollmentEntryForm.resources
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student_Management_System.StudentEntryForm.resources
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student_Management_System.SubjectEntryForm.resources
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student_Management_System.SubjectScheduleEntryForm.resources
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student Management System.exe
+Z:\FINAL_ARANETAAJ\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student_Management_System.MainMenuForm.resources
+C:\Users\alvin\source\repos\Finals\Student Management System\obj\Debug\Student_Management_System.AboutDev.resources
